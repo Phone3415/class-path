@@ -1,6 +1,6 @@
 # จัดการ Path ใน Node.js ด้วย Classes และ Instances
 
-Library class-path ช่วยให้คุณจัดการเส้นทางไฟล์ (file path) ได้อย่างมีประสิทธิภาพ ด้วย API ที่เป็นใช้งานง่ายและปลอดภัยผ่าน Class และ Instance — รองรับทั้ง POSIX และ Windows path
+Library class-path มีไว้สำหรับช่วยจัดการเส้นทางไฟล์ (file path) ได้อย่างมีประสิทธิภาพ ด้วย API ที่เป็นใช้งานง่ายและปลอดภัยผ่าน Class และ Instance — รองรับทั้ง POSIX และ Windows path
 
  - เขียนขึ้นโดยใช้ Typescript
  - มี Type Safety
