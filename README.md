@@ -1,4 +1,4 @@
-# classed-path
+# oop-path
 
 > Available in: [English](#english-en) | [ภาษาไทย](#ภาษาไทย-th)
 
@@ -6,7 +6,7 @@
 
 ### Manage File Paths in Node.js with Classes and Instances
 
-classed-path is a utility library designed to simplify and enhance file path manipulation in Node.js using a clean, object-oriented approach. It provides a type-safe, immutable API for working with both POSIX and Windows paths.
+oop-path is a utility library designed to simplify and enhance file path manipulation in Node.js using a clean, object-oriented approach. It provides a type-safe, immutable API for working with both POSIX and Windows paths.
 
 - Built with TypeScript
 - Full type safety and IDE support
@@ -18,7 +18,7 @@ classed-path is a utility library designed to simplify and enhance file path man
 
 ### จัดการ Path ใน Node.js ด้วย Classes และ Instances
 
-Library classed-path มีไว้สำหรับช่วยจัดการเส้นทางไฟล์ (file path) ได้อย่างมีประสิทธิภาพ ด้วย API ที่เป็นใช้งานง่ายและปลอดภัยผ่าน Class และ Instance — รองรับทั้ง POSIX และ Windows path
+Library oop-path มีไว้สำหรับช่วยจัดการเส้นทางไฟล์ (file path) ได้อย่างมีประสิทธิภาพ ด้วย API ที่เป็นใช้งานง่ายและปลอดภัยผ่าน Class และ Instance — รองรับทั้ง POSIX และ Windows path
 
 - เขียนขึ้นโดยใช้ Typescript
 - มี Type Safety
@@ -29,7 +29,7 @@ Library classed-path มีไว้สำหรับช่วยจัดก�
 ## Installation
 
 ```sh
-npm i classed-path
+npm i oop-path
 ```
 
 ## Example
@@ -37,7 +37,7 @@ npm i classed-path
 ### JavaScript
 
 ```js
-const { Path, PathWin32, PathPosix } = require("classed-path");
+const { Path, PathWin32, PathPosix } = require("oop-path");
 
 const filePath = new Path("./example-folder/file.txt");
 
@@ -70,7 +70,7 @@ console.log("Win32 normalized:", win32Path.normalize().path);
 ### Typescript
 
 ```ts
-import { Path, PathWin32, PathPosix, ObjectPath } from "classed-path";
+import { Path, PathWin32, PathPosix, ObjectPath } from "oop-path";
 
 function usePath(p: ObjectPath): void {
   //logging path

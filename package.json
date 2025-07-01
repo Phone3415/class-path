@@ -1,7 +1,7 @@
 {
-  "name": "classed-path",
+  "name": "oop-path",
   "version": "1.0.0",
-  "description": "ใช้งาน Path ในรูปแบบ Classes และ Instances",
+  "description": "Manage File Path Using Classes and Instances",
   "keywords": [
     "path",
     "object",
@@ -12,13 +12,13 @@
     "ts",
     "js"
   ],
-  "homepage": "https://github.com/Phone3415/classed-path#readme",
+  "homepage": "https://github.com/Phone3415/oop-path#readme",
   "bugs": {
-    "url": "https://github.com/Phone3415/classed-path/issues"
+    "url": "https://github.com/Phone3415/oop-path/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Phone3415/classed-path.git"
+    "url": "git+https://github.com/Phone3415/oop-path.git"
   },
   "license": "GPL-3.0",
   "author": "Phone3415",
