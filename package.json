@@ -1,5 +1,5 @@
 {
-  "name": "class-path",
+  "name": "classed-path",
   "version": "1.0.0",
   "description": "ใช้งาน Path ในรูปแบบ Classes และ Instances",
   "keywords": [
@@ -12,13 +12,13 @@
     "ts",
     "js"
   ],
-  "homepage": "https://github.com/Phone3415/class-path#readme",
+  "homepage": "https://github.com/Phone3415/classed-path#readme",
   "bugs": {
-    "url": "https://github.com/Phone3415/class-path/issues"
+    "url": "https://github.com/Phone3415/classed-path/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Phone3415/class-path.git"
+    "url": "git+https://github.com/Phone3415/classed-path.git"
   },
   "license": "GPL-3.0",
   "author": "Phone3415",
