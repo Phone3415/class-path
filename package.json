@@ -1,0 +1,34 @@
+{
+  "name": "class-path",
+  "version": "1.0.0",
+  "description": "ใช้งาน Path ในรูปแบบ Classes และ Instances",
+  "keywords": [
+    "path",
+    "object",
+    "class",
+    "instance",
+    "node",
+    "typescript",
+    "ts",
+    "js"
+  ],
+  "homepage": "https://github.com/Phone3415/class-path#readme",
+  "bugs": {
+    "url": "https://github.com/Phone3415/class-path/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phone3415/class-path.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Phone3415",
+  "type": "commonjs",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
