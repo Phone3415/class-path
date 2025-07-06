@@ -1,5 +1,5 @@
 import path from "node:path";
-import fs from "node:fs";
+import * as fs from "node:fs";
 
 export type ObjectPath = Path | PathWin32 | PathPosix;
 type PathTypes = ObjectPath | string;

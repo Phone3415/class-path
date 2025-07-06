@@ -1,4 +1,6 @@
 node_modules
 .AddCompLib
 tsconfig.json
-example
+.npmignore
+.gitignore
+src
